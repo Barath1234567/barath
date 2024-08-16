@@ -1,0 +1,10 @@
+.img{
+   background-image: url(img.jpg);
+   font-style:italic;
+}
+.col{
+    color:brown;
+}
+.wi{
+    width: max-content;
+}
